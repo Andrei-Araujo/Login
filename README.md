@@ -1,6 +1,6 @@
 # Login
 
-> > Sistema para login e cadastro de usuários, utilizando Node.js, Express e MongoDB.
+> Sistema para login e cadastro de usuários, utilizando Node.js, Express e MongoDB.
 
 
 ## Execução
