@@ -3,7 +3,7 @@ var express = require("express");
 app = express();
 var mongoose = require("mongoose");
 
-global.db = mongoose.connect("mongodb://localhost:27017/teste_login", {
+global.db = mongoose.connect("mongodb://localhost:27017/login", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
